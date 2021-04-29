@@ -1,5 +1,5 @@
 <style>
 body {
-  background-image: url('mobile.png');
+  background-image: url('/assets/images/mobile.png');
 }
 </style>
